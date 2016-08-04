@@ -1,0 +1,32 @@
+[
+  {
+    "repository":   "DirtyUnicorns/android_vendor_qcom_opensource_dataservices",
+    "target_path":  "vendor/qcom/opensource/dataservices,
+    "branch":       "m-caf",
+    "remote":       "github"
+  },
+  {
+    "repostiory":   "DirtyUnicorns/android_system_qcom",
+    "target_path":  "system_qcom",
+    "branch":       "m-caf",
+    "remote":       "github"
+  },
+  {
+    "repository":   "DirtyUnicorns/android_external_connectivity",
+    "target_path":  "external/connectivity",
+    "branch":       "m-caf",
+    "remote":       "github"
+   },
+   {
+    "repository":   "Cyanogenmod/android_external_libnetfilter_conntrack",
+    "target_path":  "external/libnetfilter_conntrack,
+    "branch":       "cm-13.0",
+    "remote":       "github"
+   },
+   {
+    "repository":   "Cyanogenmod/android_external_libnfnetlink",
+    "target_path":  "external/libnfnetlink",
+    "branch":       "cm-13.0",
+    "remote":       "github"
+   }
+]
