@@ -34,5 +34,11 @@
     "target_path":  "hardware/qcom/fm",
     "branch":       "cm-13.0",
     "remote":       "github"
+   },
+   {
+    "repository":   "Cyanogenmod/android_external_ant-wireless_antradio-library",
+    "target_path":  "external/ant-wireless/antradio-library",
+    "branch":       "cm-13.0",
+    "remote":       "github"
    }
 ]
